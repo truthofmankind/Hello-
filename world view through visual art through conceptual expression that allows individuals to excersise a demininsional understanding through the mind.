@@ -1,0 +1,30 @@
+name: CI
+Truth of mankind
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/truthofmankind@github.com
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: My name is jeramiah this is a project for the human mind.
+
+      run: |The point to this project is a concept I call dimensional awareness.
+Through the visual art which is of stone found in it natural state but cleaned I am presenting an excersise of the mind.
+I just want people to know there is no definite object to be seen other then truth. This excersise is only intended to help
+With the training of the mind which I call deminisional awareness. We all cannot be mathmaticians, but we all have the ability
+To devlope a deminionsal understanding to the truth which surrounds us every day minute and second of this life. This is not a religious
+Excersise! Nor is it intended to advocate for or anginst any human belief religion or personal truth in which one holds moral truth.
+This is just an attempt to help people slow the mind and take a moment to go through a concept which is self determined. No thought is wrong in this
+Process. As long as your thinking as you conceptsualize you expression if thought will change every time you use tgis excersise. This is just
+A way for me to share a understanding that others might not be aware of. This is a personal journey of the mind. You can either share or not. All is welcome.
+Thank you for taking the time to read this and get a chance to know of me. I hope our friendship grows through better understanding not only of our selfs but each oterh as well.
+The end result for this project should be a greater understanding of how we and all things are connected through science and truth, hince
+                                  TRUTH OF MANKIND
+                                      A child is born.
+    
+     
